@@ -1,10 +1,5 @@
-<h2>Home</h2>
 <img src="screnshot/Screenshot 2026-05-17 202851.png" width="700">
-
-<h2>Login</h2>
 <img src="screnshot/Screenshot 2026-05-17 202941.png" width="700">
-
-<h2>Dashboard</h2>
 <img src="screnshot/Screenshot 2026-05-17 203022.png" width="700">
 >>>>>>> 241c225 (SS)
 
