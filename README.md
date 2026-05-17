@@ -1,6 +1,6 @@
 ![](Screenshot/ss1.png)
-![](Screenshot/ss2-file.png)
-![](Screenshot/ss3-file.png)
+![](Screenshot/ss2.png)
+![](Screenshot/ss3.png)
 
 
 
