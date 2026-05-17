@@ -1,4 +1,12 @@
-![Screenshot-route]([https://github.com/11Pamungkas/laravel_MVC/tree/main/Screenshot](https://github.com/11Pamungkas/laravel_MVC/blob/main/Screenshot/Screenshot%202026-05-17%20202941.png)
+<h2>Home</h2>
+<img src="screnshot/Screenshot 2026-05-17 202851.png" width="700">
+
+<h2>Login</h2>
+<img src="screnshot/Screenshot 2026-05-17 202941.png" width="700">
+
+<h2>Dashboard</h2>
+<img src="screnshot/Screenshot 2026-05-17 203022.png" width="700">
+>>>>>>> 241c225 (SS)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
