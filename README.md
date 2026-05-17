@@ -1,7 +1,8 @@
-<img src="screnshot/Screenshot 2026-05-17 202851.png" width="700">
-<img src="screnshot/Screenshot 2026-05-17 202941.png" width="700">
-<img src="screnshot/Screenshot 2026-05-17 203022.png" width="700">
->>>>>>> 241c225 (SS)
+![](Screenshot/ss1.png)
+![](Screenshot/ss2-file.png)
+![](Screenshot/ss3-file.png)
+
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
